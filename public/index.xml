@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfoli</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Portfoli</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ca</language>
+    <lastBuildDate>Wed, 21 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre mi</title>
+      <link>http://localhost:1313/post/sobremi/</link>
+      <pubDate>Wed, 21 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/sobremi/</guid>
+      <description>&lt;p&gt;El meu nom és Guiu Puigantell. Soc tècnic superior en desenvolupament d&amp;rsquo;aplicacions multiplataforma i estudiant de segon de DAW en l&amp;rsquo;institut Nicolau Copèrnic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DAW--Desenvolupament d&#39;aplicacions web</title>
+      <link>http://localhost:1313/post/daw/</link>
+      <pubDate>Mon, 19 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/daw/</guid>
+      <description>&lt;p&gt;Durant el meu curs en Desenvolupament d&amp;rsquo;Aplicacions Web (DAW), he adquirit una comprensió sobre diverses tecnologies clau en el desenvolupament web. He realitzat dos projectes significatius com a part del curs.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DAW estancia en DUAL</title>
+      <link>http://localhost:1313/post/dawdual/</link>
+      <pubDate>Thu, 15 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/dawdual/</guid>
+      <description>&lt;p&gt;Amb el títol de DAW vaig fer la modalitat de DUAL.&#xA;En total són 1000 hores de pràctiques les quals són remunerades i estàs a l&amp;rsquo;empresa com un becari.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>DAM--Desenvolupament d&#39;aplicacions multiplataforma</title>
+      <link>http://localhost:1313/post/dam/</link>
+      <pubDate>Sat, 10 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/dam/</guid>
+      <description>&lt;p&gt;Durant el meu curs en Desenvolupament d&amp;rsquo;Aplicacions Multiplataforma (DAM), he adquirit diversos coneixements sobre aplicacions destinades a diverses plataformes i dispositius. He après a desenvolupar aplicacions que poden ser utilitzades en una ampla gamma de dispositius, incloent-hi ordinadors, tauletes i telèfons mòbils.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/archives/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.&#xA;Hugo makes use of a variety of open source projects including:&#xA;https://github.com/yuin/goldmark https://github.</description>
+    </item>
+  </channel>
+</rss>
